@@ -656,7 +656,7 @@ header .header_section .container .menu_holder .cta_btn button a:hover {
 }
 
 .footer_section .container {
-  padding: 110px 0px;
+  padding: 110px 0px 50px;
   flex-direction: column;
 }
 .footer_section .container .footer_top_area {
